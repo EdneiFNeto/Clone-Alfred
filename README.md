@@ -17,3 +17,6 @@ Função deste projeto esta na exibição de filmes utilizando API-publica no Gi
 
 ## Endpoint
 Enpoint utilizado <a href="https://api.disneyapi.dev/characters">Disney </a> para renderizar os dados.
+
+## Componentes de Desgin
+Para criação do design foi utilizado na API do <a href="https://material.io/develop/android">Material Design</a> para Android. 
